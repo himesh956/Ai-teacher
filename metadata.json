@@ -1,0 +1,6 @@
+{
+  "name": "AI Teacher — Adaptive Multilingual AI Educator",
+  "description": "An end-to-end adaptive AI educator that understands learning materials, plans personalized multimodal lessons, presents through voice and video avatars, evaluates student responses semantically, and adapts teaching based on misconception detection.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
